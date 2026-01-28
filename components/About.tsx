@@ -3,6 +3,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Award, Target, Activity, Zap } from 'lucide-react';
 
+const BASE = import.meta.env.BASE_URL;
+
 const About: React.FC = () => {
   const stats = [
     { label: 'Total Projects', value: '12+', icon: Target },
@@ -30,7 +32,7 @@ const About: React.FC = () => {
           <div className="aspect-[2/3] md:aspect-[4/5] bg-neutral-900 border border-red-600/30 relative group overflow-hidden shadow-[0_0_60px_rgba(255,24,1,0.2)] z-10">
             {/* The Main Poster Image - Using /about.png with high priority */}
             <img 
-              src="/about.png" 
+              src={`${BASE}about.png`} 
               alt="Aman Das- F1 Driver Profile" 
               className="absolute inset-0 w-full h-full object-cover grayscale transition-all duration-700 ease-in-out group-hover:grayscale-0 group-hover:scale-105 z-0 block"
               loading="eager"
