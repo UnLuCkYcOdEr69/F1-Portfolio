@@ -2,7 +2,7 @@
   <img width="1200" height="475" alt="F1 Portfolio Banner" src="/public/github readme.png" />
 </div>
 
-# F1 Portfolio — Engineered by Aman Das
+# F1 Portfolio — Where Engineering Meets Momentum
 
 A performance-driven developer portfolio inspired by the precision, speed, and efficiency of Formula 1.  
 This project reflects my approach to software engineering: **clean architecture, optimized interactions, and purposeful design**.
@@ -27,7 +27,7 @@ It showcases my projects, skills, and engineering mindset through a high-perform
 
 ## ✨ Key Highlights
 
-- Fully designed and implemented by **Aman Das**
+- Fully designed and implemented by me
 - Modular, scalable component architecture
 - Smooth animations and transitions using motion principles
 - Optimized asset handling for production deployment
