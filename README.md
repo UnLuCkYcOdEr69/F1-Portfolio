@@ -2,19 +2,36 @@
 <img width="1200" height="475" alt="GHBanner" src="/github readme.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# F1-Portfolio — Built by Aman Das
 
-This contains everything you need to run your app locally.
+This repository contains a custom-built portfolio designed and developed by me.  
+The project focuses on clean code structure, modern frontend practices,  a smooth and responsive user experience.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1i2Ned5QkMs4-5GIF7HJOvlinfNyF3zPL
+---
 
-## Run Locally
+## 🚀 Overview
+- Fully developed and maintained by **Aman Das**
+- Clean, modular architecture
+- Responsive and modern UI
+- AI-driven functionality integrated into the application flow
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Tech Stack
+- **Frontend:** React  
+- **Backend / AI Integration:** Node.js  
+- **Environment Management:** dotenv  
+- **Package Manager:** npm  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ▶️ Run Locally
+
+### Prerequisites
+- Node.js installed on your system
+
+### Setup Instructions
+1. Clone the repository  
+   ```bash
+   git clone <your-repo-url>
+   cd <project-folder>
