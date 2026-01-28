@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="/github readme.png" />
+<img width="1200" height="475" alt="GHBanner" src="/public/github readme.png" />
 </div>
 
 # F1-Portfolio — Built by Aman Das
